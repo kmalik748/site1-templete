@@ -493,5 +493,5 @@ section.app-download::before{
     Testimonials - What our clients says
 */
 section.testimonial{
-
+    background-color: var(--black-100);
 }
